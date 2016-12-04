@@ -1,1 +1,0 @@
-# vice-parallax-container-demo
